@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 🔭 I’m currently Looking for opportunity in working with startups <br />
 🌱 I’m currently learning ReactJS <br />
 👯 I’m looking to collaborate with open-source projects ❤️  <br />
-📫 Let's Connect: "[Linkedin]""(linkedin.com/in/sneha-y-choudhari)"  
+📫 Let's Connect: [Linkedin](linkedin.com/in/sneha-y-choudhari) 
