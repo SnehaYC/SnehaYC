@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently Looking for opportunity in working with startups \n
+🔭 I’m currently Looking for opportunity in working with startups
 🌱 I’m currently learning ReactJS
 👯 I’m looking to collaborate with open-source projects ❤️
+📫 Let's Connect: "(linkedin.com/in/sneha-y-choudhari)"
