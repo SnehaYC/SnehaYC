@@ -1,4 +1,4 @@
-### Hey there :smile: I am Sneha.
+### Hey there I am Sneha :smile:
 
 <!--
 **SnehaYC/SnehaYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently Looking for opportunity in working with startups
+🔭 I’m currently Looking for opportunity in working with startups \n
 🌱 I’m currently learning ReactJS
 👯 I’m looking to collaborate with open-source projects ❤️
-📫 Let's connect: linkedin.com/in/sneha-y-choudhari
