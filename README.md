@@ -1,4 +1,4 @@
-### Hey there I am Sneha :smile:
+### Hey there! I am Sneha.
 ---------------
 <!--
 **SnehaYC/SnehaYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
