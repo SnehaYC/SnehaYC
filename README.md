@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭 I’m currently Looking for opportunity in working with startups <br />
 🌱 I’m currently learning ReactJS <br />
 👯 I’m looking to collaborate with open-source projects <br />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SnehaYC&label=Profile%20views&color=0e75b6&style=flat" alt="SnehaYC" /> </p>
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SnehaYC&count_private=true&theme=tokyonight&showicons=true)]() 
 [![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnehaYC)](https://github.com/SnehaYC/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaYC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
