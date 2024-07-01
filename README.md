@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭 I’m currently Looking for opportunity in working with startups <br />
 🌱 I’m currently learning ReactJS <br />
 👯 I’m looking to collaborate with open-source projects <br />
-💬 Ask me about ReactJS</br>
+
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SnehaYC&count_private=true&theme=tokyonight&showicons=true)]() 
 [![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnehaYC)](https://github.com/SnehaYC/github-readme-stats)
